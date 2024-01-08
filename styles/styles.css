@@ -37,9 +37,15 @@
     font-weight: 40px;
     text-align: center;
 }
+
 .pic{
     text-align: center;
 }
 
-    
+
+
+.time{
+    text-align: center;
+    font-family: sans-serif;
+}
    
